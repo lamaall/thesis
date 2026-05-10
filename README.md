@@ -23,7 +23,6 @@ Contains intermediate outputs used during development.
 ### `/robot_config`
 Configuration files and parameters for the robot system.  
 - Based on the NicoIK project from the FMPH, Comenius University  
-- Includes kinematics, calibration settings, and robot-specific configuration data  
 
 ---
 
@@ -31,27 +30,21 @@ Configuration files and parameters for the robot system.
 
 ### 1. Whiteboard Detection
 - Detects and localizes the whiteboard in the camera frame  
-- Preprocessing of input images for further analysis  
 
 ### 2. Graph Construction
 - Converts detected visual information into a structured graph representation  
-- Nodes and edges represent spatial or logical relationships  
 
 ### 3. Path Planning
-- Computes an optimal path based on the constructed graph  
-- Ensures feasibility given robot constraints and environment structure  
+- Computes a path based on the constructed graph  
 
 ### 4. Motion Execution
 - Translates planned paths into robot commands  
-- Executes movement on the physical system or simulation  
 
 ---
 
 ## 📊 `/results/close`
 
-- Contains final experiment outputs  
-- Includes processed results and structured folders for analysis  
-- Used for evaluation of system performance and thesis documentation  
+- Contains final experiment outputs as well as scripts for analysis
 
 ---
 
