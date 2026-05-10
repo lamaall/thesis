@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="44" viewBox="0 0 76 44">
+<line x1="37.00" y1="19.00" x2="45.00" y2="7.00" stroke="black" stroke-width="1.5"/>
+<line x1="37.00" y1="19.00" x2="44.00" y2="19.00" stroke="black" stroke-width="1.5"/>
+<line x1="37.00" y1="19.00" x2="37.00" y2="26.00" stroke="black" stroke-width="1.5"/>
+<line x1="45.00" y1="7.00" x2="39.00" y2="6.00" stroke="black" stroke-width="1.5"/>
+<line x1="39.00" y1="6.00" x2="25.00" y2="20.00" stroke="black" stroke-width="1.5"/>
+<line x1="25.00" y1="20.00" x2="18.00" y2="22.00" stroke="black" stroke-width="1.5"/>
+<line x1="25.00" y1="20.00" x2="26.00" y2="24.00" stroke="black" stroke-width="1.5"/>
+<line x1="44.00" y1="19.00" x2="49.00" y2="25.00" stroke="black" stroke-width="1.5"/>
+<line x1="49.00" y1="25.00" x2="36.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="36.00" y1="32.00" x2="21.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="32.00" x2="16.00" y2="28.00" stroke="black" stroke-width="1.5"/>
+<line x1="16.00" y1="28.00" x2="18.00" y2="22.00" stroke="black" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="38" viewBox="0 0 64 38">
+<line x1="13.00" y1="8.00" x2="13.00" y2="7.00" stroke="black" stroke-width="1.5"/>
+<line x1="13.00" y1="8.00" x2="14.00" y2="8.00" stroke="black" stroke-width="1.5"/>
+<line x1="13.00" y1="8.00" x2="10.00" y2="9.00" stroke="black" stroke-width="1.5"/>
+<line x1="10.00" y1="9.00" x2="11.00" y2="6.00" stroke="black" stroke-width="1.5"/>
+<line x1="10.00" y1="9.00" x2="9.00" y2="20.00" stroke="black" stroke-width="1.5"/>
+<line x1="55.00" y1="10.00" x2="57.00" y2="5.00" stroke="black" stroke-width="1.5"/>
+<line x1="55.00" y1="10.00" x2="55.00" y2="11.00" stroke="black" stroke-width="1.5"/>
+<line x1="55.00" y1="11.00" x2="50.00" y2="11.00" stroke="black" stroke-width="1.5"/>
+<line x1="55.00" y1="11.00" x2="61.00" y2="13.00" stroke="black" stroke-width="1.5"/>
+<line x1="50.00" y1="11.00" x2="39.00" y2="5.00" stroke="black" stroke-width="1.5"/>
+<line x1="50.00" y1="11.00" x2="46.00" y2="23.00" stroke="black" stroke-width="1.5"/>
+<line x1="39.00" y1="5.00" x2="16.00" y2="9.00" stroke="black" stroke-width="1.5"/>
+<line x1="46.00" y1="23.00" x2="42.00" y2="24.00" stroke="black" stroke-width="1.5"/>
+<line x1="46.00" y1="23.00" x2="49.00" y2="28.00" stroke="black" stroke-width="1.5"/>
+<line x1="18.00" y1="20.00" x2="18.00" y2="17.00" stroke="black" stroke-width="1.5"/>
+<line x1="18.00" y1="20.00" x2="18.00" y2="20.00" stroke="black" stroke-width="1.5"/>
+<line x1="42.00" y1="24.00" x2="39.00" y2="25.00" stroke="black" stroke-width="1.5"/>
+<line x1="42.00" y1="24.00" x2="41.00" y2="30.00" stroke="black" stroke-width="1.5"/>
+<line x1="49.00" y1="28.00" x2="45.00" y2="27.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="24.00" x2="26.00" y2="10.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="24.00" x2="14.00" y2="23.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="24.00" x2="21.00" y2="25.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="25.00" x2="25.00" y2="26.00" stroke="black" stroke-width="1.5"/>
+<line x1="21.00" y1="25.00" x2="19.00" y2="30.00" stroke="black" stroke-width="1.5"/>
+<line x1="25.00" y1="26.00" x2="22.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="25.00" y1="26.00" x2="30.00" y2="26.00" stroke="black" stroke-width="1.5"/>
+<line x1="19.00" y1="30.00" x2="22.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="39.00" y1="25.00" x2="30.00" y2="26.00" stroke="black" stroke-width="1.5"/>
+<line x1="39.00" y1="25.00" x2="39.00" y2="30.00" stroke="black" stroke-width="1.5"/>
+<line x1="30.00" y1="26.00" x2="29.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="29.00" y1="32.00" x2="27.00" y2="28.00" stroke="black" stroke-width="1.5"/>
+<line x1="18.00" y1="12.00" x2="20.00" y2="13.00" stroke="black" stroke-width="1.5"/>
+<line x1="11.00" y1="18.00" x2="14.00" y2="17.00" stroke="black" stroke-width="1.5"/>
+<line x1="13.00" y1="14.00" x2="14.00" y2="13.00" stroke="black" stroke-width="1.5"/>
+</svg>

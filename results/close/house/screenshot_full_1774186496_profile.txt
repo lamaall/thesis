@@ -1,0 +1,25 @@
+PROFILE: screenshot_full_1774186496
+========================================
+
+whiteboard_detection
+  time        : 0.0251 s
+  mem delta   : 0.75 MB
+  mem final   : 138.66 MB
+
+graph_construction
+  time        : 0.0853 s
+  mem delta   : 4.86 MB
+  mem final   : 143.52 MB
+
+path_planning
+  time        : 0.0016 s
+  mem delta   : 0.02 MB
+  mem final   : 143.54 MB
+
+robot_execution
+  time        : 31.8257 s
+  mem delta   : -4.99 MB
+  mem final   : 138.55 MB
+
+========================================
+TOTAL TIME: 31.9378 s

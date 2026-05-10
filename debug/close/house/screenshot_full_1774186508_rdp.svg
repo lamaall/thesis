@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="123" viewBox="0 0 209 123">
+<line x1="108.00" y1="8.00" x2="109.00" y2="5.00" stroke="black" stroke-width="1.5"/>
+<line x1="108.00" y1="8.00" x2="95.00" y2="0.00" stroke="black" stroke-width="1.5"/>
+<line x1="108.00" y1="8.00" x2="118.00" y2="18.00" stroke="black" stroke-width="1.5"/>
+<line x1="109.00" y1="5.00" x2="117.00" y2="5.00" stroke="black" stroke-width="1.5"/>
+<line x1="117.00" y1="5.00" x2="118.00" y2="18.00" stroke="black" stroke-width="1.5"/>
+<line x1="118.00" y1="18.00" x2="122.00" y2="28.00" stroke="black" stroke-width="1.5"/>
+<line x1="95.00" y1="0.00" x2="67.00" y2="29.00" stroke="black" stroke-width="1.5"/>
+<line x1="67.00" y1="29.00" x2="122.00" y2="28.00" stroke="black" stroke-width="1.5"/>
+<line x1="67.00" y1="29.00" x2="63.00" y2="32.00" stroke="black" stroke-width="1.5"/>
+<line x1="122.00" y1="28.00" x2="126.00" y2="30.00" stroke="black" stroke-width="1.5"/>
+<line x1="126.00" y1="30.00" x2="124.00" y2="77.00" stroke="black" stroke-width="1.5"/>
+<line x1="124.00" y1="77.00" x2="103.00" y2="77.00" stroke="black" stroke-width="1.5"/>
+<line x1="124.00" y1="77.00" x2="126.00" y2="77.00" stroke="black" stroke-width="1.5"/>
+<line x1="63.00" y1="32.00" x2="62.00" y2="78.00" stroke="black" stroke-width="1.5"/>
+<line x1="62.00" y1="78.00" x2="65.00" y2="81.00" stroke="black" stroke-width="1.5"/>
+<line x1="65.00" y1="81.00" x2="84.00" y2="78.00" stroke="black" stroke-width="1.5"/>
+<line x1="84.00" y1="78.00" x2="86.00" y2="67.00" stroke="black" stroke-width="1.5"/>
+<line x1="84.00" y1="78.00" x2="103.00" y2="77.00" stroke="black" stroke-width="1.5"/>
+<line x1="86.00" y1="55.00" x2="85.00" y2="54.00" stroke="black" stroke-width="1.5"/>
+<line x1="86.00" y1="55.00" x2="102.00" y2="54.00" stroke="black" stroke-width="1.5"/>
+<line x1="86.00" y1="55.00" x2="86.00" y2="67.00" stroke="black" stroke-width="1.5"/>
+<line x1="102.00" y1="54.00" x2="103.00" y2="77.00" stroke="black" stroke-width="1.5"/>
+<line x1="86.00" y1="67.00" x2="91.00" y2="67.00" stroke="black" stroke-width="1.5"/>
+<line x1="102.00" y1="20.00" x2="97.00" y2="17.00" stroke="black" stroke-width="1.5"/>
+<line x1="97.00" y1="17.00" x2="90.00" y2="20.00" stroke="black" stroke-width="1.5"/>
+<line x1="90.00" y1="20.00" x2="95.00" y2="25.00" stroke="black" stroke-width="1.5"/>
+<line x1="95.00" y1="25.00" x2="100.00" y2="24.00" stroke="black" stroke-width="1.5"/>
+</svg>
