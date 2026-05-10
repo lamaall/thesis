@@ -67,4 +67,4 @@ This project demonstrates an end-to-end robotic pipeline combining:
 
 ## 🏛️ Academic Context
 
-Developed as part of a thesis project in collaboration with the Faculty of Mathematics, Comenius University, using components from the NicoIK robotics framework.
+Developed as part of a thesis project in collaboration with the FMPH, Comenius University, using components from the NicoIK robotics framework.
