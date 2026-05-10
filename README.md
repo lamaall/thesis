@@ -14,7 +14,7 @@ Contains the collected image data used for experiments.
 ---
 
 ### `/debug`
-Contains debugging scripts and intermediate outputs used during development.  
+Contains intermediate outputs used during development. 
 - Used to analyze system behavior at different stages  
 - Helpful for troubleshooting detection, graph building, and planning issues  
 
