@@ -22,7 +22,7 @@ Contains intermediate outputs used during development.
 
 ### `/robot_config`
 Configuration files and parameters for the robot system.  
-- Based on the NicoIK project from the Faculty of Mathematics, Comenius University  
+- Based on the NicoIK project from the FMPH, Comenius University  
 - Includes kinematics, calibration settings, and robot-specific configuration data  
 
 ---
